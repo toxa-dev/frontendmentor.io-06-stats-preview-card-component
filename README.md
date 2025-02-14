@@ -23,7 +23,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Live site](https://toxa-dev.github.io/frontendmentor.io-06-stats-preview-card-component-main)
+- Live Site URL: [Live site](https://toxa-dev.github.io/frontendmentor.io-06-stats-preview-card-component)
 
 ## My process
 
