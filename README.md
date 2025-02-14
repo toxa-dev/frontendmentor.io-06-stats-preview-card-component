@@ -31,8 +31,6 @@ Users should be able to:
 
 I learned how to use the ::before pseudo-element to create a semi-transparent background color over an image.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
 ## Author
 
 - [GitHub Repository Hub](https://toxa-dev.github.io/)
