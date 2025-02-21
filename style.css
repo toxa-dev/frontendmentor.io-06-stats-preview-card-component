@@ -126,7 +126,7 @@ body {
     background-color: var(--main-background);
 }
 
-@media only screen and (max-height: 740px) {
+@media only screen and (max-height: 830px) {
     .attribution {
         position: static;
     }
